@@ -38,12 +38,17 @@
 
 * Browse & search jobs
 * Filter by service type, budget, and nearest location
-* Submit quotes (price + details + portfolio images)
+* Submit quotes (price + details + portfolio images) , Contractor need cradit for apply for job ,Every apply minus the some cradit (ex: minus $3 to the total cradite (ex $50)).
 * Communicate with consumers
 * Update job progress
 * Build reputation through ratings & completed jobs
 * Manage subscription plan & profile
-
+ By plan:
+* (Apmin can change the plain(daynamic):
+  -Basic plain: Limited Job application , No job alerts , Pay-per-Application.
+  -Premium: All pro feature ,Verified badge, Free monthly credits,Highlighted listing.
+  -Pro:Priority in search results, Instant job alerts,Unlimited job applications, Lower lead cost
+ 
 ---
 
 # **2. Consumer Dashboard**
@@ -322,7 +327,7 @@ Tabs:
 * Price (e.g., $75)
 * Billing cycle (monthly)
 * Next billing date (e.g., December 12, 2025)
-
+ 
 ---
 
 ## **10.2 Profile Information**
